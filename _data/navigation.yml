@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Academic Service"
+    url: /academic/
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Alumni"
+    url: /alumni/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Other"
+    url: /other/
+    
+ # - title: "Guide"
+ #   url: /markdown/
