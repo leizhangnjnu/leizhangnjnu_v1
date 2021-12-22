@@ -26,7 +26,7 @@ M.S student in the research group are also responsible for the daily operation a
 We focus on cultivating students' **practical programming ability (Python, PyTorch + TensorFlow + Keras + Jittor + Caffe, etc.)** in the field of **Machine Learning** and **Deep Learning**.
 M.S students mainly publish papers in the fields of computer and artificial intelligence, based on paper with code mode, which is conducive to further study or 
 employment in the field of IT after graduation. For the more specific research direction of M.S students, please 
-refer to the <a href="https://wenbohuang1002.github.io/leizhang.github.io//publications/">representative papers</a> of previous M.S students. <br>
+refer to the <a href="https://leizhangnjnu.github.io//publications/">representative papers</a> of previous M.S students. <br>
 
 Long-term Enrollment
 ------
@@ -92,7 +92,7 @@ Publications (Partial)
 9. Teng Q, **Zhang L\***,  Tang Y, Song S, Wang, X, He, J, Block-wise training residual networks on multi-channel time series for human activity recognition, **IEEE Sensors Journal**,  accepted, 2021 (**SCI, Graduate student first author, Corresponding author**)
 10. Wu H, Duan, Y, Yue K, **Zhang L**, Mashup-Oriented Web API Recommendation via Multi-Model Fusion and Multi-Task Learning, **IEEE Transactions on Services Computing**, accepted, 2021. (**SCI**)
 
-<a href="https://wenbohuang1002.github.io/leizhang.github.io//publications/">[See more]</a> <br>
+<a href="https://leizhangnjnu.github.io//publications/">[See more]</a> <br>
 <a href="#top">[Go top]</a>
 
 Academic Service (Partial)
@@ -117,7 +117,7 @@ Academic Service (Partial)
 2. 教育部学位中心研究生学位论文通讯评议专家 
 <br>
 
-<a href="https://wenbohuang1002.github.io/leizhang.github.io//academic/">[See more]</a> <br>
+<a href="https://leizhangnjnu.github.io//academic/">[See more]</a> <br>
 <a href="#top">[Go top]</a>
 
 Scientific Research Project
