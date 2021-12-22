@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lei Zhang (张雷) @ NNU"
+title                    : "Lei Zhang (张雷) @ NJNU"
 title_separator          : "-"
 name                     : &name "Lei Zhang (张雷)"
 description              : &description "personal description"
@@ -87,7 +87,7 @@ author:
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "leizhang@njnu.edu.cn"
+  email            : 
   researchgate     : "https://www.researchgate.net/profile/Lei-Zhang-471"
   uri              :
   bitbucket        :

@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my CV (PDF) <a href="https://leizhangnjnu.github.io/papers/Leizhang-CV.pdf">here</a>.
+
 Education
 ------
 * B.S. in Computer Science and Technology, <a href="http://www.zzu.edu.cn/">Zhenzhou University (ZZU)</a>, Zhenzhou, Henan, 1997.09-2001.06
@@ -36,6 +38,6 @@ Work experience
 * 2014.10-Now: Associate Professor
   * <a href="http://d.njnu.edu.cn/research-area/3205.html">Institute of Infirmation and Control Technologies</a>
   * <a href="http://d.njnu.edu.cn/">School of Electrical Engineering and Automation</a>
-  * <a href="http://www.njnu.edu.cn/">Nanjing Normal University (NNU)</a>
+  * <a href="http://www.njnu.edu.cn/">Nanjing Normal University (NJNU)</a>
   * Nanjing, Jiangsu, China
 
