@@ -111,18 +111,18 @@ Graduate Students
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/wenbingao.jpg"/>
-<p style="text-align: center;"> <a href="">Wenbin Gao<br>Xiaomi</a></p>
-</div>
-
-<div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/wenbohuang.jpg"/>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/huangwenbo.jpg"/>
 <p style="text-align: center;"> <a href="https://wenbohuang1002.github.io/">Wenbo Huang<br>Ph.D. Candidate in SEU</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/tianyiliu.jpg"/>
 <p style="text-align: center;"> <a href="">Tianyi Liu<br>Ph.D. Candidate in SEU</a></p>
+</div>
+
+<div style="width: 14%; float: left; min-width: 9em;">
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/wenbingao.jpg"/>
+<p style="text-align: center;"> <a href="">Wenbin Gao<br>Xiaomi</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
@@ -155,7 +155,7 @@ Graduate Students
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/jinweimao.jpg"/>
-<p style="text-align: center;"> <a href=" ">Jinwei Mao<br>Nan Rui</a></p>
+<p style="text-align: center;"> <a href=" ">Jinwei Mao<br>NARI Group</a></p>
 </div>
 
 <div style="clear:both"></div>
@@ -163,7 +163,7 @@ Graduate Students
 2017
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/zhihaozhang.jpg"/>
-<p style="text-align: center;"> <a href=" ">Zhihao Zhang<br>Nan Rui</a></p>
+<p style="text-align: center;"> <a href=" ">Zhihao Zhang<br>NARI Group</a></p>
 </div>
 
 <div style="clear:both"></div>
