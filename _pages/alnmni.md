@@ -42,12 +42,12 @@ Students
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/dog.jpg"/>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/zhanyufeng.jpg"/>
 <p style="text-align: center;"> <a href="https://leizhangnjnu.github.io//alumni/">Yufeng Zhan</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/liangjunjie.jpg"/>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/dog.jpg"/>
 <p style="text-align: center;"> <a href="https://leizhangnjnu.github.io//alumni/">Junjie liang</a></p>
 </div>
 
