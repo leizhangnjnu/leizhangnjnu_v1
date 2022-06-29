@@ -64,17 +64,19 @@ Students
 
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/yangguangyu.png"/>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/dog.jpg"/>
 <p style="text-align: center;"> <a href="https://github.com/guangyuyang001">Guangyu Yang</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/chengdongzhou.jpg"/>
+<!-- <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/chengdongzhou.jpg"/> -->
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/dog.jpg"/>
 <p style="text-align: center;"> <a href="https://cheng-haha.github.io/">Dongzhou Cheng</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/xiongting.jpg"/>
+<!-- <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/xiongting.jpg"/> -->
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/dog.jpg"/>
 <p style="text-align: center;"> <a href="https://leizhangnjnu.github.io//alumni/">Ting Xiong</a></p>
 </div>
 
