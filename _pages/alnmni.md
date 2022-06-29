@@ -36,7 +36,7 @@ Students
 ------
 2021
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/dog.jpg"/>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/yanggaungyu.jpg"/>
 <p style="text-align: center;"> <a href="https://leizhangnjnu.github.io//alumni/">Guangyu Yang</a></p>
 </div>
 
