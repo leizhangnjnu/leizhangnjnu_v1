@@ -111,27 +111,27 @@ Graduate Students
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/wenbingao.jpg"/>
-<p style="text-align: center;"> <a href="">Wenbin Gao</a></p>
+<p style="text-align: center;"> <a href="">Wenbin Gao<br>Xiaomi</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/wenbohuang.jpg"/>
-<p style="text-align: center;"> <a href="https://wenbohuang1002.github.io/">Wenbo Huang</a></p>
+<p style="text-align: center;"> <a href="https://wenbohuang1002.github.io/">Wenbo Huang<br>Ph.D. Candidate in SEU</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/tianyiliu.jpg"/>
-<p style="text-align: center;"> <a href="">Tianyi Liu</a></p>
+<p style="text-align: center;"> <a href="">Tianyi Liu<br>Ph.D. Candidate in SEU</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/xincheng.jpg"/>
-<p style="text-align: center;"> <a href="">Xin Cheng</a></p>
+<p style="text-align: center;"> <a href="">Xin Cheng<br>State Grid of China(Shandong)</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/weimingquan.jpg"/>
-<p style="text-align: center;"> <a href="">Weiming Quan</a></p>
+<p style="text-align: center;"> <a href="">Weiming Quan<br>State Grid of China(Anhui)</a></p>
 </div>
 
 <div style="clear:both"></div>
@@ -139,22 +139,22 @@ Graduate Students
 2018
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/qiteng.jpg"/>
-<p style="text-align: center;"> <a href="https://github.com/tengqi159">Qi Teng</a></p>
+<p style="text-align: center;"> <a href="https://github.com/tengqi159">Qi Teng<br>Ph.D. Candidate in NJU</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/kunwang.jpg"/>
-<p style="text-align: center;"> <a href="https://github.com/KennCoder7">Kun Wang</a></p>
+<p style="text-align: center;"> <a href="https://github.com/KennCoder7">Kun Wang<br>Ph.D. Candidate in SEU</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/zhenyuwang.jpg"/>
-<p style="text-align: center;"> <a href="https://github.com/Divine-w">Zhenyu Wang</a></p>
+<p style="text-align: center;"> <a href="https://github.com/Divine-w">Zhenyu Wang<br>Ph.D. Candidate in NJU</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/jinweimao.jpg"/>
-<p style="text-align: center;"> <a href=" ">Jinwei Mao</a></p>
+<p style="text-align: center;"> <a href=" ">Jinwei Mao<br>Nan Rui</a></p>
 </div>
 
 <div style="clear:both"></div>
