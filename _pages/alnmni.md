@@ -62,7 +62,7 @@ Students
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/bucan.jpg"/>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/bu_can.jpg"/>
 <p style="text-align: center;"> <a href="https://github.com/small-volcano">Can Bu</a></p>
 </div>
 
