@@ -73,7 +73,7 @@ Students
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/yangguangyu.png"/>
-<p style="text-align: center;"> <a href="https://leizhangnjnu.github.io//alumni/">Guangyu Yang</a></p>
+<p style="text-align: center;"> <a href="https://github.com/DOTOE001">Guangyu Yang</a></p>
 </div>
 
 <div style="clear:both"></div>
