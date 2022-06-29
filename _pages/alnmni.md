@@ -36,13 +36,13 @@ Students
 ------
 2021
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/yanggaungyu.jpg"/>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/yangguangyu.jpg"/>
 <p style="text-align: center;"> <a href="https://leizhangnjnu.github.io//alumni/">Guangyu Yang</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/dog.jpg"/>
-<p style="text-align: center;"> <a href="https://leizhangnjnu.github.io//alumni/">Can Bu</a></p>
+<p style="text-align: center;"> <a href="https://github.com/small-volcano">Can Bu</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
@@ -56,7 +56,7 @@ Students
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/dog.jpg"/>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/wangshuaishuai.jpg"/>
 <p style="text-align: center;"> <a href="https://leizhangnjnu.github.io//alumni/">Shuaishuai Wang</a></p>
 </div>
 
@@ -71,7 +71,7 @@ Students
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/dog.jpg"/>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/liangjunjie.jpg"/>
 <p style="text-align: center;"> <a href="https://leizhangnjnu.github.io//alumni/">Junjie liang</a></p>
 </div>
 
