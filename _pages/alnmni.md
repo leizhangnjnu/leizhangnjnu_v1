@@ -66,7 +66,7 @@ Students
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/dog.jpg"/>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/zhanyufeng.jpg"/>
 <p style="text-align: center;"> <a href="https://leizhangnjnu.github.io//alumni/">Yufeng Zhan</a></p>
 </div>
 
@@ -170,12 +170,12 @@ Graduate Students
 Others
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/zhixiangwang.jpg"/>
-<p style="text-align: center;"> <a href="https://scholar.google.com/citations?user=yybzbxMAAAAJ">Zhixiang Wang<br>Ph.D. Candidate in UTokyo</a></p>
+<p style="text-align: center;"> <a href="https://scholar.google.com/citations?user=yybzbxMAAAAJ">Zhixiang Wang<br>Undergraduate</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/shuoyuanwang.jpg"/>
-<p style="text-align: center;"> <a href="https://claydon-wang.github.io/">Shuoyuan Wang<br>Ph.D. Candidate in UMacau</a></p>
+<p style="text-align: center;"> <a href="https://claydon-wang.github.io/">Shuoyuan Wang<br>Undergraduate</a></p>
 </div>
 
 <div style="clear:both"></div>
