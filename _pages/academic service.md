@@ -17,6 +17,7 @@ Journal Reviewer
 ------
 - IEEE Transactions on Neutral Networks and Learning Systems
 - IEEE Transactions on Mobile Computing
+- IEEE Transactions on Artificial Intelligence
 - IEEE Transactions on Signal Processing
 - IEEE Transactions on Instrumentation and Measurement
 - IEEE Transactions on Cognitive and Developmental System
