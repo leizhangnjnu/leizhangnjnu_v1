@@ -69,13 +69,13 @@ Students
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/xiongting.jpg"/>
-<p style="text-align: center;"> <a href="https://leizhangnjnu.github.io//alumni/">Ting Xiong</a></p>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/chengdongzhou.jpg"/>
+<p style="text-align: center;"> <a href="https://cheng-haha.github.io/">Dongzhou Cheng</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/chengdongzhou.jpg"/>
-<p style="text-align: center;"> <a href="https://cheng-haha.github.io/">Dongzhou Cheng</a></p>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/xiongting.jpg"/>
+<p style="text-align: center;"> <a href="https://leizhangnjnu.github.io//alumni/">Ting Xiong</a></p>
 </div>
 
 <div style="clear:both"></div>
