@@ -81,7 +81,7 @@ Students
 ------
 2020
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/xingwang.jpg"/>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/wangxing.jpg"/>
 <p style="text-align: center;"> <a href="https://chauncey-wang.github.io/">Xing Wang</a></p>
 </div>
 
