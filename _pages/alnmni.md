@@ -47,13 +47,13 @@ Students
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/dog.jpg"/>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/liangjunjie.jpg"/>
 <p style="text-align: center;"> <a href="https://leizhangnjnu.github.io//alumni/">Junjie liang</a></p>
 </div>
 
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/dog.jpg"/>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/wangshuaishuai.jpg"/>
 <p style="text-align: center;"> <a href="https://leizhangnjnu.github.io//alumni/">Shuaishuai Wang</a></p>
 </div>
 
@@ -64,19 +64,17 @@ Students
 
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/dog.jpg"/>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/yangguangyu.jpg"/>
 <p style="text-align: center;"> <a href="https://github.com/guangyuyang001">Guangyu Yang</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<!-- <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/chengdongzhou.jpg"/> -->
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/dog.jpg"/>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/chengdongzhou.jpg"/>
 <p style="text-align: center;"> <a href="https://cheng-haha.github.io/">Dongzhou Cheng</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<!-- <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/xiongting.jpg"/> -->
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/dog.jpg"/>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/xiongting.jpg"/>
 <p style="text-align: center;"> <a href="https://leizhangnjnu.github.io//alumni/">Ting Xiong</a></p>
 </div>
 
