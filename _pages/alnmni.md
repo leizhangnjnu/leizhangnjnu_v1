@@ -107,17 +107,17 @@ Graduate Students
 2019
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/yintang.jpg"/>
-<p style="text-align: center;"> <a href="https://yinntag.github.io/">Yin Tang<br>Ph.D. Candidate in CSU</a></p>
+<p style="text-align: center;"> <a href="https://yinntag.github.io/">Yin Tang<br>Ph.D. Candidate in Central South University</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/wenbohuang.jpg"/>
-<p style="text-align: center;"> <a href="https://wenbohuang1002.github.io/">Wenbo Huang<br>Ph.D. Candidate in SEU</a></p>
+<p style="text-align: center;"> <a href="https://wenbohuang1002.github.io/">Wenbo Huang<br>Ph.D. Candidate in Southeast University</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/tianyiliu.jpg"/>
-<p style="text-align: center;"> <a href="">Tianyi Liu<br>Ph.D. Candidate in SEU</a></p>
+<p style="text-align: center;"> <a href="">Tianyi Liu<br>Ph.D. Candidate in Southeast University</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
@@ -140,17 +140,17 @@ Graduate Students
 2018
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/qiteng.jpg"/>
-<p style="text-align: center;"> <a href="https://github.com/tengqi159">Qi Teng<br>Ph.D. Candidate in NJU</a></p>
+<p style="text-align: center;"> <a href="https://github.com/tengqi159">Qi Teng<br>Ph.D. Candidate in Nanjing University</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/kunwang.jpg"/>
-<p style="text-align: center;"> <a href="https://github.com/KennCoder7">Kun Wang<br>Ph.D. Candidate in SEU</a></p>
+<p style="text-align: center;"> <a href="https://github.com/KennCoder7">Kun Wang<br>Ph.D. Candidate in Southeast University</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/zhenyuwang.jpg"/>
-<p style="text-align: center;"> <a href="https://github.com/Divine-w">Zhenyu Wang<br>Ph.D. Candidate in NJU</a></p>
+<p style="text-align: center;"> <a href="https://github.com/Divine-w">Zhenyu Wang<br>Ph.D. Candidate in Nanjing University</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
@@ -168,15 +168,15 @@ Graduate Students
 
 <div style="clear:both"></div>
 
-Others
+Undergraduate
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/zhixiangwang.jpg"/>
-<p style="text-align: center;"> <a href="https://scholar.google.com/citations?user=yybzbxMAAAAJ">Zhixiang Wang<br>Undergraduate</a></p>
+<p style="text-align: center;"> <a href="https://scholar.google.com/citations?user=yybzbxMAAAAJ">Zhixiang Wang<br>Ph.D. in University of Tokyo</a></p>
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/shuoyuanwang.jpg"/>
-<p style="text-align: center;"> <a href="https://claydon-wang.github.io/">Shuoyuan Wang<br>Undergraduate</a></p>
+<p style="text-align: center;"> <a href="https://claydon-wang.github.io/">Shuoyuan Wang<br>Ph.D. Candidate in University of Macau</a></p>
 </div>
 
 <div style="clear:both"></div>
