@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 **2022**
+- Huang W, **Zhang L\***, Wu H, Song A. Deep Ensemble Learning for Human Activity Recognition Using Wearable Sensors via Filter Activation.  **ACM Transactions on Embedded Computing Systems**, 2022.
+- Tang Y, **Zhang L\***, Wu H, He J. Dual-branch Interactive Networks on Multichannel Time Series for Human Activity Recognition.  **IEEE Journal of Biomedical and Health Informatics**, 2022.
 - Huang W, **Zhang L\***, Wu H, Min F, Song A.
 *Channel-Equalization-HAR: A Light-weight Convolutional Neural Network for Wearable Sensor Based Human Activity Recognition.*
 **IEEE Transactions on Mobile Computing**, 2022.
