@@ -166,6 +166,7 @@ Academic Service (Partial)
 **Conference Reviewer:** <br>
 - 36th AAAI Conference of Artificial Intelligence (AAAI-2022) 
 - 39th International Conference on Machine Learning (ICML-2022)
+- 26th International Symposium on Wearable Computers (ISWC-2022)
 <br>
 
 **Award and Honor:** <br>
