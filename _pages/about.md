@@ -160,6 +160,7 @@ Academic Service (Partial)
 - Elsevier Signal Processing ***Excellent Reviewer***
 - Elesvier Expert System an Applications
 - Springer Journal of Supercomputing
+- Wiley Advanced Intelligent Systems
 - Physics Letters A
 <br>
 
@@ -167,6 +168,7 @@ Academic Service (Partial)
 - 36th AAAI Conference of Artificial Intelligence (AAAI-2022) 
 - 39th International Conference on Machine Learning (ICML-2022)
 - 26th International Symposium on Wearable Computers (ISWC-2022)
+- 37th AAAI Conference of Artificial Intelligence (AAAI-2023)
 <br>
 
 **Award and Honor:** <br>

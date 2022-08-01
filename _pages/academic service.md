@@ -13,6 +13,7 @@ Conference Reviewer
 - 36th AAAI Conference of Artificial Intelligence (AAAI-2022) 
 - 39th International Conference on Machine Learning (ICML-2022)
 - 26th International Symposium on Wearable Computers (ISWC-2022)
+- 37th AAAI Conference of Artificial Intelligence (AAAI-2023) 
 
 Journal Reviewer
 ------
@@ -31,6 +32,7 @@ Journal Reviewer
 - Elsevier Signal Processing ***Excellent Reviewer***
 - Elesvier Expert System an Applications
 - Springer Journal of Supercomputing
+- Wiley Advanced Intelligent Systems
 - Physics Letters A
 - Nature Scientific Data
 - International Journal of Bifurcation and Chaos
