@@ -152,6 +152,8 @@ Academic Service (Partial)
 - IEEE Transactions on Instrumentation and Measurement
 - IEEE Transactions on Cognitive and Developmental System
 - IEEE Journal of Selected Topics on Signal Processing
+- IEEE Transactions on Circuits and Systems II: Express Briefs
+- IEEE Transactions on Circuits and Systems I: Regular Papers
 - IEEE Internet of Things Journal
 - IEEE Sensors Journal
 - IEEE Access

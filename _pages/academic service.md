@@ -23,6 +23,8 @@ Journal Reviewer
 - IEEE Transactions on Signal Processing
 - IEEE Transactions on Instrumentation and Measurement
 - IEEE Transactions on Cognitive and Developmental System
+- IEEE Transactions on Circuits and Systems II: Express Briefs
+- IEEE Transactions on Circuits and Systems I: Regular Papers
 - IEEE Journal of Selected Topics on Signal Processing
 - IEEE Internet of Things Journal
 - IEEE Sensors Journal
