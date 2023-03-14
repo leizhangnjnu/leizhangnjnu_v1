@@ -192,8 +192,8 @@ Academic Service (Partial)
 <br>
 
 **Conference Reviewer:** <br>
-- AAAI: 2021, 2022, 2023
-- ICML: 2021
+- AAAI: 2022, 2023
+- ICML: 2022
 - UbiComp/ISWC: 2022
 
 

@@ -10,8 +10,8 @@ redirect_from:
 
 Conference Reviewer
 ------
-- AAAI: 2021, 2022, 2023
-- ICML: 2021
+- AAAI: 2022, 2023
+- ICML: 2022
 - UbiComp/ISWC: 2022
 
 <!-- - 36th AAAI Conference of Artificial Intelligence (AAAI-2022) 
