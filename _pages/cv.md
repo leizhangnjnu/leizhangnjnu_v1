@@ -14,8 +14,8 @@ You can download my CV (PDF) <a href="https://leizhangnjnu.github.io/papers/Leiz
 Education
 ------
 * B.S. in Computer Science and Technology, <a href="http://www.zzu.edu.cn/">Zhenzhou University (ZZU)</a>, Zhenzhou, Henan, 1997.09-2001.06
-* M.S of basic theory courses in Automation, <a href="https://www.ustc.edu.cn/">University Of Science And Technology Of China (USTC)</a>, Hefei, Anhui, 2001.09-2002.06
-* M.S. in Pattern recognition and Intelligent Systems, <a href="http://www.sia.cas.cn/">Shenyang Institute of Automation, Chinese Academy of Sciences (CAS)</a>, Shenyang, Liaoning, 2002.06-2004.06
+<!-- * M.S of basic theory courses in Automation, <a href="https://www.ustc.edu.cn/">University Of Science And Technology Of China (USTC)</a>, Hefei, Anhui, 2001.09-2002.06 -->
+* M.S. in Pattern recognition and Intelligent Systems, <a href="http://www.sia.cas.cn/">Shenyang Institute of Automation, Chinese Academy of Sciences (CAS)</a>, Shenyang, Liaoning, 2001.09-2004.06
 * Ph.D in Instrument Science and Technology, <a href="https://www.seu.edu.cn/">Southeast University (SEU)</a>, Nanjing, Jiangsu, 2007.03-2011.03
 
 Work experience
