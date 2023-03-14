@@ -10,38 +10,45 @@ redirect_from:
 
 Conference Reviewer
 ------
-- 36th AAAI Conference of Artificial Intelligence (AAAI-2022) 
+- AAAI: 2021, 2022, 2023
+- ICML: 2021
+- UbiComp/ISWC: 2022
+<!-- - 36th AAAI Conference of Artificial Intelligence (AAAI-2022) 
 - 39th International Conference on Machine Learning (ICML-2022)
 - 26th International Symposium on Wearable Computers (ISWC-2022)
-- 37th AAAI Conference of Artificial Intelligence (AAAI-2023) 
+- 37th AAAI Conference of Artificial Intelligence (AAAI-2023)  -->
 
 Journal Reviewer
 ------
-- IEEE Transactions on Neutral Networks and Learning Systems
-- IEEE Transactions on Mobile Computing
+- ACM transactions on Embedded Computing Systems (TECS)
+- ACM transactions on Knowledge Discuvery from Data（TKDD）
+- IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Artificial Intelligence
+- IEEE Transactions on Mobile Computing
+- IEEE Transactions on Industrial Electronics
 - IEEE Transactions on Signal Processing
+- IEEE Journal on Selected Topics on Signal Processing
 - IEEE Transactions on Instrumentation and Measurement
 - IEEE Transactions on Cognitive and Developmental System
 - IEEE Transactions on Circuits and Systems II: Express Briefs
 - IEEE Transactions on Circuits and Systems I: Regular Papers
-- IEEE Journal of Selected Topics on Signal Processing
 - IEEE Internet of Things Journal
 - IEEE Sensors Journal
+- Expert System an Applications
+- The Visual Computer
+- Journal of Supercomputing
+- Data in Brief
+- Scientific Data
+- International Journal of Bifurcation and Chaos
+- Chaos
+- Nonlinear Dynamics
+- Physics Letters A
+- Measurement Science and Technology
 - IEEE Access
 - ACM Transactions on Embedded Computing Systems
 - Elsevier Chinese Journal of Physics ***Excellent Reviewer***
 - Elsevier Signal Processing ***Excellent Reviewer***
-- Elesvier Expert System an Applications
-- Springer Journal of Supercomputing
 - Wiley Advanced Intelligent Systems
-- Physics Letters A
-- Nature Scientific Data
-- International Journal of Bifurcation and Chaos
-- Data in Brief
-- The Visual Computer
-- Nonlinear Dynamics
-- Chaos: An Interdisciplinary Journal of Nonlinear Sciences
 - Engineering Research Express
 - Electronic Letters
 - Measuement Science and Technoloty
