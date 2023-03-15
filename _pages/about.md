@@ -114,6 +114,11 @@ Academic Related
 Publications (Partial)
 ------
 
+**2023**
+ - Lian H, Li J, Wu H, Y. Zhao, **Zhang L\***, and Wang X, Towards effective personalized service qos prediction from the perspective of multi-task learning, **IEEE Transactions on Network and Service Management**, 2023.
+- Xu L, Zeng J, Peng W, Wu H, Yue K, Ding H, **Zhang L\***, and Wang X, Modeling and predicting user preferences with multiple item attributes for sequential recommendations, **Knowledge-Based Systems**, 2023.
+
+
 **2022**
 - Huang W, **Zhang L\***, Wu H, Song A. Deep Ensemble Learning for Human Activity Recognition Using Wearable Sensors via Filter Activation.  **ACM Transactions on Embedded Computing Systems**, 2022.
 - Tang Y, **Zhang L\***, Wu H, He J. Dual-branch Interactive Networks on Multichannel Time Series for Human Activity Recognition.  **IEEE Journal of Biomedical and Health Informatics**, 2022.
@@ -146,13 +151,13 @@ Academic Service (Partial)
 
 **Journal Reviewer:**  <br>
 - ACM transactions on Embedded Computing Systems (TECS)
-- ACM transactions on Knowledge Discuvery from Data（TKDD）
+- ACM transactions on Knowledge Discuvery from Data (TKDD)
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Artificial Intelligence
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Industrial Electronics
 - IEEE Transactions on Signal Processing
-- IEEE Journal on Selected Topics on Signal Processing
+- IEEE Journal of Selected Topics on Signal Processing
 - IEEE Transactions on Instrumentation and Measurement
 - IEEE Transactions on Cognitive and Developmental System
 - IEEE Transactions on Circuits and Systems II: Express Briefs
@@ -165,10 +170,27 @@ Academic Service (Partial)
 - Data in Brief
 - Scientific Data
 - International Journal of Bifurcation and Chaos
-- Chaos
+- Chaos: An Interdisciplinary Journal of Nonlinear Sciences
 - Nonlinear Dynamics
 - Physics Letters A
 - Measurement Science and Technology
+- IEEE Access
+- Signal Processing
+- IET Computer Vision
+- Intelligent Systems with Applications
+- Scientific Reports
+- European Journal of Physics
+- Engineering Research Express
+- Electronic Letters
+- Chinese Journal of Physics
+- Measuement Science and Technoloty
+- Physica Scripta
+- International Journal of Bifurcation and Chaos s
+- International Journal of Environmental Research and Public Health
+- Sensors
+- Geo-spatial Information Science
+- Chemometrics and Intelligent Laboratory Systems
+- Indian Journal of Physics
 
 <!-- - IEEE Transactions on Neutral Networks and Learning Systems
 - IEEE Transactions on Mobile Computing
@@ -192,9 +214,9 @@ Academic Service (Partial)
 <br>
 
 **Conference Reviewer:** <br>
-- AAAI: 2022, 2023
-- ICML: 2022
-- UbiComp/ISWC: 2022
+- Association for the Advancement of Artificial Intelligence (AAAI):2021,2022,2023
+- International Conference on Machine Learning (ICML):2021
+- UbiComp/ISWC:2022
 
 
 <!-- - 36th AAAI Conference of Artificial Intelligence (AAAI-2022) 

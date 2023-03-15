@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+**2023**
+ - Lian H, Li J, Wu H, Y. Zhao, **Zhang L\***, and Wang X, Towards effective personalized service qos prediction from the perspective of multi-task learning, **IEEE Transactions on Network and Service Management**, 2023.
+- Xu L, Zeng J, Peng W, Wu H, Yue K, Ding H, **Zhang L\***, and Wang X, Modeling and predicting user preferences with multiple item attributes for sequential recommendations, **Knowledge-Based Systems**, 2023.
+
+
 **2022**
 - Huang W, **Zhang L\***, Wu H, Song A. Deep Ensemble Learning for Human Activity Recognition Using Wearable Sensors via Filter Activation.  **ACM Transactions on Embedded Computing Systems**, 2022.
 - Tang Y, **Zhang L\***, Wu H, He J. Dual-branch Interactive Networks on Multichannel Time Series for Human Activity Recognition.  **IEEE Journal of Biomedical and Health Informatics**, 2022.
